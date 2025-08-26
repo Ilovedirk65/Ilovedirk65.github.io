@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews itemIdentifier="bloons-tower-defense-5_20210409">
+  <review>
+    <reviewtitle>good game</reviewtitle>
+    <reviewbody>great game just takes like a minute or 2 to load</reviewbody>
+    <stars>4</stars>
+    <reviewer>vicgame10</reviewer>
+    <reviewdate>2024-10-09 13:29:28</reviewdate>
+    <createdate>2024-10-09 13:29:28</createdate>
+    <reviewer_itemname>@vicgame10</reviewer_itemname>
+  </review>
+  <review>
+    <reviewtitle>great game</reviewtitle>
+    <reviewbody>its really fun but it can get laggy in the later rounds</reviewbody>
+    <stars>5</stars>
+    <reviewer>The_EpicDoges</reviewer>
+    <reviewdate>2025-01-23 16:11:58</reviewdate>
+    <createdate>2024-11-21 17:45:28</createdate>
+    <reviewer_itemname>@the_epicdoges</reviewer_itemname>
+  </review>
+  <info>
+    <num_reviews>2</num_reviews>
+    <avg_rating>4.50</avg_rating>
+  </info>
+</reviews>
